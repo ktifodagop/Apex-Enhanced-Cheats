@@ -14,11 +14,13 @@ The Apex Enhanced Cheat repository is a collection of innovative cheats and modi
 <p dir="auto">Password: 2024</p>
 </blockquote>
 
-![3](https://github.com/ktifodagop/DayZ-Enhanced-Cheats/assets/164243679/70a3c719-322b-48b7-b179-828e7e44505a)
+![3](https://github.com/ktifodagop/Apex-Enhanced-Cheats/assets/164243679/638df243-121b-4f4d-a802-8a69c6c1fa96)
+
 
 # Showcase
 
-![image](https://github.com/ktifodagop/DayZ-Enhanced-Cheats/assets/164243679/ab646518-4a42-4bb7-9dc3-9a780e6f3a66)
+![2](https://github.com/ktifodagop/Apex-Enhanced-Cheats/assets/164243679/efbf710f-e36b-489d-9161-9a6771ce3d17)
+
 
 
 <li>
