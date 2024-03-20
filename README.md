@@ -1,7 +1,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](https://github.com/ktifodagop/DayZ-Enhanced-Cheats/blob/main/LICENSE)
 
-# DayZ-Enhanced-Cheats
-The DayZ Enhanced Cheats repository is a collection of innovative cheats and modifications for the game DayZ. Our mission is to provide players with new features and enhance their experience in the survival world that is DayZ.
+# Apex-Enhanced-Cheat
+The Apex Enhanced Cheat repository is a collection of innovative cheats and modifications for the game Apex Legends. Our mission is to provide players with new features and enhance their experience in the survival world that is Apex.
 
 
 
